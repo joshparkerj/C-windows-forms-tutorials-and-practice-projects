@@ -16,5 +16,11 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void Statistician_generator_Click(object sender, EventArgs e)
+        {
+
+        }
+        private List<Statistician>
     }
 }
